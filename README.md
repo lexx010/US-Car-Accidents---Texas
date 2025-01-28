@@ -1,1 +1,2 @@
 # US-Car-Accidents---Texas
+This project focuses on analyzing traffic accidents in Texas, extracted from the larger US Accidents dataset. The primary goal is to clean and wrangle the data to ensure accuracy and reliability, then perform exploratory data analysis (EDA) to uncover meaningful insights. By examining factors such as accident severity, weather conditions, time, and location, this analysis aims to identify patterns and trends that can help understand the causes and characteristics of accidents in Texas.

@@ -1,0 +1,848 @@
+City,Number of Accidents
+Abbott,32
+Abernathy,5
+Abilene,71
+Addison,123
+Adkins,10
+Adrian,12
+Alamo,30
+Alba,2
+Albany,4
+Aledo,192
+Alice,6
+Allen,570
+Alleyton,9
+Alto,2
+Alton,2
+Alvarado,111
+Alvin,55
+Amarillo,84
+Amherst,5
+Anahuac,14
+Andrews,18
+Angleton,129
+Anna,47
+Anson,2
+Anton,2
+Archer,5
+Argyle,120
+Arlington,5281
+Asherton,2
+Atascosa,14
+Athens,8
+Atlanta,2
+Aubrey,19
+Austin,87126
+Avinger,2
+Azle,6
+Bacliff,6
+Baird,15
+Balch Springs,1099
+Ballinger,1
+Balmorhea,21
+Bandera,1
+Barksdale,5
+Barstow,5
+Bartlett,3
+Bastrop,37
+Baytown,448
+Beasley,19
+Beaumont,155
+Beckville,6
+Bedford,755
+Bedias,1
+Bee Cave,23
+Beeville,6
+Bellaire,728
+Bellevue,6
+Bells,6
+Bellville,1
+Belton,59
+Benbrook,5
+Bertram,6
+Big Sandy,1
+Big Spring,56
+Big Wells,2
+Bishop,3
+Bivins,4
+Blanco,5
+Bloomburg,5
+Bloomington,2
+Bluff Dale,1
+Bluffton,1
+Boerne,122
+Bogata,2
+Boling,1
+Bonham,1
+Borger,12
+Bowie,4
+Boyd,1
+Brackettville,10
+Brady,1
+Brashear,1
+Brazoria,16
+Breckenridge,6
+Bremond,6
+Brenham,5
+Bridge,3
+Briggs,2
+Brookeland,1
+Brookshire,226
+Brownfield,1
+Brownsville,13
+Brownwood,8
+Bruceville,24
+Bryan,34
+Buckholts,2
+Buda,764
+Buffalo,20
+Bulverde,10
+Buna,3
+Burkburnett,6
+Burkeville,1
+Burleson,451
+Burnet,26
+Byers,5
+Caddo,1
+Caddo Mills,12
+Caldwell,3
+Calvert,2
+Cameron,9
+Camp Wood,1
+Campbell,1
+Campbellton,14
+Canadian,4
+Canton,11
+Canutillo,2
+Canyon,8
+Canyon Lake,1
+Carmine,1
+Carrizo Springs,1
+Carrollton,2431
+Carthage,6
+Castroville,9
+Cat Spring,1
+Catarina,2
+Cedar Creek,86
+Cedar Hill,119
+Cedar Park,670
+Cedar Park-Liberty Hill,1
+Celina,1
+Center,1
+Centerville,6
+Channelview,399
+Channing,5
+Chappell Hill,1
+Childress,5
+Chillicothe,4
+Chilton,4
+Cibolo,5
+Cisco,54
+Clarendon,14
+Clarksville,5
+Claude,9
+Cleburne,10
+Cleveland,25
+Clint,69
+Clute,18
+Clyde,9
+Coahoma,6
+Coldspring,1
+Coleman,7
+College Station,15
+Colleyville,19
+Collinsville,1
+Colmesneil,3
+Colorado,39
+Columbus,25
+Comanche,14
+Comfort,19
+Comstock,1
+Concan,3
+Conroe,1029
+Converse,255
+Cookville,2
+Cooper,2
+Coppell,214
+Copperas Cove,18
+Corinth,7
+Corpus Christi,80
+Corrigan,11
+Corsicana,44
+Cotulla,51
+Coupland,78
+Coyanosa,3
+Crandall,36
+Crane,4
+Creedmoor,60
+Cresson,4
+Crockett,17
+Crosby,31
+Crossroads,6
+Crowley,25
+Crystal,11
+Cuero,1
+Cumby,4
+Cypress,410
+Daingerfield,5
+Dale,47
+Dalhart,18
+Dallas,119311
+Damon,7
+Danbury,12
+Dawson,3
+Dayton,13
+De Berry,9
+De Kalb,8
+De Leon,4
+Decatur,16
+Deer Park,212
+Del Rio,9
+Del Valle,2742
+Dell,2
+Denison,11
+Denton,1737
+Desdemona,6
+Desoto,255
+Detroit,1
+Devine,5
+Diboll,17
+Dickens,1
+Dickinson,246
+Dilley,9
+Dimmitt,8
+Donna,7
+Driftwood,2
+Dripping Springs,65
+Dublin,2
+Dumas,3
+Duncanville,1101
+Eagle Lake,3
+Eagle Pass,4
+Earth,2
+East Bernard,10
+Eastland,25
+Edcouch,4
+Eddy,35
+Eden,9
+Edinburg,76
+Edna,11
+El Campo,9
+El Paso,15293
+Electra,19
+Elgin,233
+Elm Mott,11
+Elmendorf,89
+Emory,1
+Encinal,12
+Encino,3
+Ennis,126
+Eola,1
+Etoile,1
+Euless,654
+Eustace,1
+Fabens,23
+Fairfield,11
+Falfurrias,7
+Farmersville,5
+Farwell,4
+Fate,21
+Fayetteville,2
+Ferris,159
+Flatonia,13
+Flint,6
+Florence,49
+Flower Mound,4
+Floydada,4
+Fluvanna,1
+Forest Hill,80
+Forney,611
+Forreston,32
+Fort Bliss,163
+Fort Davis,17
+Fort Hancock,31
+Fort Hood,12
+Fort Stockton,53
+Fort Worth,15463
+Fowlerton,2
+Franklin,3
+Frankston,7
+Fredericksburg,25
+Freeport,34
+Fresno,14
+Friendswood,333
+Frisco,272
+Fritch,3
+Fulshear,3
+Gail,1
+Gainesville,21
+Galena Park,6
+Galveston,152
+Ganado,9
+Garden,4
+Garland,2414
+Garrison,1
+Garwood,1
+Gary,1
+Gatesville,3
+George West,1
+Georgetown,518
+Giddings,7
+Gilmer,7
+Gladewater,4
+Glen Rose,2
+Glenn Heights,1
+Godley,2
+Goldsmith,6
+Goldthwaite,13
+Goliad,18
+Gonzales,7
+Goodrich,1
+Gordon,8
+Gordonville,1
+Graford,10
+Graham,2
+Granbury,11
+Grand Prairie,3951
+Grandview,45
+Granger,5
+Granite Shoals,3
+Grapeland,2
+Grapevine,909
+Greenville,48
+Groom,8
+Groves,5
+Groveton,14
+Gruver,4
+Gun Barrel,1
+Gunter,1
+Guy,1
+Hale Center,3
+Hallettsville,2
+Hallsville,15
+Haltom,248
+Hamilton,5
+Hamlin,2
+Hamshire,6
+Harker Heights,4
+Harlingen,20
+Harper,5
+Harrold,7
+Harwood,14
+Haskell,4
+Haslet,52
+Hawley,4
+Hearne,6
+Hedley,3
+Helotes,16
+Hemphill,5
+Hempstead,68
+Henderson,7
+Henrietta,17
+Hereford,37
+Hickory Creek,15
+Hico,4
+Hidalgo,2
+Highlands,29
+Hillsboro,59
+Hitchcock,44
+Hobson,2
+Hockley,117
+Holliday,12
+Hondo,5
+Hooks,10
+Horizon,5
+Horseshoe Bay,2
+Houston,156968
+Howe,6
+Hudson Oaks,5
+Huffman,86
+Humble,2344
+Huntington,5
+Huntsville,65
+Hurst,608
+Hutchins,292
+Hutto,154
+Idalou,6
+Imperial,1
+Industry,2
+Inez,9
+Iola,4
+Iowa Park,24
+Iraan,2
+Iredell,2
+Irving,5171
+Italy,32
+Itasca,6
+Jacksonville,7
+Jarrell,55
+Jasper,2
+Jbsa Ft Sam Houston,22
+Jbsa Lackland,30
+Jefferson,19
+Jermyn,1
+Jersey,10
+Johnson,14
+Jonestown,96
+Joshua,8
+Jourdanton,3
+Junction,39
+Justiceburg,11
+Justin,52
+Karnes,7
+Katy,834
+Kaufman,25
+Keene,4
+Keller,16
+Kemah,16
+Kemp,4
+Kempner,1
+Kenedy,1
+Kennard,1
+Kennedale,58
+Kermit,37
+Kerrville,14
+Kilgore,17
+Killeen,11
+Kingsbury,6
+Kingsland,2
+Kingsville,2
+Kingwood,1435
+Knott,1
+Knox,3
+Kountze,3
+Krum,7
+Kyle,290
+La Feria,3
+La Grange,15
+La Joya,2
+La Marque,122
+La Porte,226
+La Pryor,3
+Lago Vista,57
+Lake Dallas,479
+Lake Jackson,38
+Lakeway,50
+Lamesa,10
+Lampasas,8
+Lancaster,1147
+Laredo,80
+Lavon,2
+League,337
+Leander,543
+Ledbetter,11
+Leona,2
+Leonard,4
+Levelland,8
+Lewisville,1913
+Liberty,12
+Liberty Hill,64
+Lincoln,6
+Lindale,27
+Linden,7
+Linn,6
+Lipan,4
+Little Elm,12
+Littlefield,14
+Live Oak,66
+Liverpool,8
+Livingston,12
+Llano,4
+Lockhart,76
+Lockney,1
+Lolita,4
+London,3
+Lone Oak,1
+Long Branch,12
+Longview,231
+Loraine,7
+Lorena,11
+Los Fresnos,10
+Louise,3
+Lovelady,1
+Lubbock,56
+Lufkin,78
+Luling,41
+Lumberton,3
+Lyford,1
+Lytle,8
+Mabank,8
+Madisonville,13
+Magnolia,34
+Malakoff,6
+Manchaca,233
+Manor,3487
+Mansfield,144
+Manvel,202
+Marathon,2
+Marble Falls,82
+Marfa,1
+Marion,36
+Marlin,7
+Marshall,45
+Mart,5
+Mason,4
+Mathis,8
+Maud,2
+Maxwell,2
+Mc Camey,1
+Mc Caulley,1
+Mc Dade,2
+Mc Gregor,8
+McAllen,25
+McKinney,405
+McLean,3
+Mcallen,15
+Mckinney,10
+Meadow,10
+Meadows Place,5
+Melissa,50
+Melvin,1
+Memphis,3
+Menard,6
+Mentone,8
+Mercedes,2
+Meridian,1
+Merkel,16
+Mesquite,5903
+Mexia,1
+Midkiff,5
+Midland,88
+Midlothian,42
+Milano,3
+Milford,23
+Millsap,15
+Mineola,5
+Mineral Wells,5
+Mingus,3
+Mirando,2
+Mission,100
+Missouri,385
+Monahans,17
+Montalba,5
+Montgomery,32
+Moody,4
+Moore,3
+Moulton,4
+Mount Pleasant,21
+Mount Vernon,3
+Mountain Home,4
+Mt Enterprise,1
+Mt Pleasant,4
+Muenster,3
+Muleshoe,11
+Mullin,3
+Munday,1
+Nacogdoches,23
+Naples,22
+Natalia,5
+Navasota,12
+Nederland,3
+Needville,17
+Nemo,1
+Nevada,1
+New Boston,14
+New Braunfels,582
+New Caney,61
+New Waverly,20
+Newcastle,1
+Nixon,5
+Nocona,9
+North Richland Hills,365
+North Zulch,1
+Northeast Dallas,79
+Northeast Travis,1
+Northwest Travis,2
+Oakhurst,3
+Oakwood,1
+Odem,5
+Odessa,103
+Odonnell,1
+Oklaunion,10
+Olmito,2
+Olton,2
+Omaha,5
+Orange,43
+Orange Grove,1
+Ore,1
+Overton,1
+Ozona,4
+Paducah,3
+Paige,5
+Palacios,1
+Palestine,15
+Palmer,44
+Palmview,2
+Pampa,8
+Panhandle,8
+Pantego,2
+Paris,1
+Pasadena,1102
+Pattison,2
+Pearland,322
+Pearsall,12
+Pecan Gap,1
+Pecos,70
+Penitas,2
+Perryton,4
+Petrolia,7
+Petty,1
+Pflugerville,3281
+Pharr,58
+Pilot Point,3
+Pinehurst,19
+Pineland,2
+Pipe Creek,2
+Plains,13
+Plainview,14
+Plano,2438
+Plantersville,10
+Pleasanton,14
+Pointblank,1
+Pollok,3
+Ponder,1
+Port Arthur,8
+Port Bolivar,14
+Port Lavaca,14
+Port O Connor,1
+Porter,136
+Portland,11
+Post,9
+Pottsboro,1
+Princeton,11
+Prosper,8
+Purdon,1
+Pyote,3
+Quanah,2
+Queen,9
+Quemado,4
+Quinlan,3
+Quitman,5
+Ralls,4
+Ranger,10
+Ravenna,2
+Raymondville,6
+Red Oak,120
+Red Rock,1
+Refugio,1
+Reno,2
+Rhome,9
+Rice,25
+Richards,1
+Richardson,2492
+Richland,2
+Richland Hills,11
+Richland Springs,1
+Richmond,180
+Riesel,1
+Rio Grande,10
+Rio Hondo,4
+Rio Vista,2
+Rising Star,5
+River Oaks,1
+Riviera,7
+Roanoke,191
+Robinson,1
+Robstown,4
+Rockdale,5
+Rocksprings,4
+Rockwall,1003
+Roma,2
+Roosevelt,6
+Rosanky,2
+Roscoe,28
+Rosebud,1
+Rosenberg,118
+Rosharon,98
+Rotan,5
+Round Mountain,34
+Round Rock,1411
+Round Top,1
+Rowlett,579
+Royse,343
+Rule,2
+Runge,5
+Rusk,6
+Sabinal,3
+Sachse,29
+Saginaw,10
+Saint Hedwig,1
+Saint Jo,5
+Salado,39
+Salt Flat,7
+Saltillo,6
+San Angelo,12
+San Antonio,35686
+San Antonio Central,2
+San Antonio North,1
+San Augustine,4
+San Benito,14
+San Elizario,24
+San Isidro,1
+San Juan,24
+San Marcos,581
+San Saba,1
+Sanger,197
+Santa Anna,1
+Santa Elena,2
+Santa Fe,26
+Santo,23
+Savoy,8
+Schertz,563
+Schulenburg,12
+Seabrook,28
+Seadrift,4
+Seagoville,103
+Sealy,55
+Seguin,120
+Selma,52
+Seminole,2
+Seymour,13
+Shallowater,15
+Shamrock,4
+Shavano Park,3
+Shenandoah,38
+Shepherd,16
+Sheppard AFB,4
+Sheppard Afb,3
+Sherman,49
+Shiner,3
+Sierra Blanca,26
+Silsbee,1
+Simms,5
+Sinton,2
+Skidmore,1
+Slaton,4
+Smithville,12
+Snyder,8
+Socorro,87
+Somerset,2
+Somerville,1
+Sonora,9
+Sour Lake,1
+South Houston,53
+Southlake,204
+Southwest Dallas,1
+Spicewood,468
+Splendora,19
+Spring,2454
+Spring Branch,6
+Springlake,1
+Springtown,5
+Stafford,483
+Stamford,1
+Stanton,47
+Stephenville,7
+Sterling,1
+Stinnett,6
+Stockdale,2
+Stratford,21
+Strawn,3
+Streetman,11
+Sudan,3
+Sugar Land,444
+Sullivan,1
+Sulphur Springs,6
+Summerfield,2
+Sunnyvale,537
+Sunset,2
+Sunset Valley,42
+Sweeny,8
+Sweetwater,54
+Sylvester,1
+Tahoka,1
+Talco,1
+Tatum,1
+Taylor,20
+Teague,21
+Temple,142
+Tennessee Colony,3
+Terrell,324
+Texarkana,62
+Texas,105
+Texline,2
+The Colony,107
+The Hills,15
+Thornton,2
+Thrall,9
+Tilden,3
+Timpson,8
+Tolar,1
+Tomball,343
+Tornillo,5
+Trent,5
+Trenton,2
+Trinity,1
+Troy,94
+Tyler,3215
+Universal,29
+Uvalde,19
+Valley Spring,1
+Valley View,3
+Van,6
+Van Alstyne,4
+Van Horn,30
+Vancourt,1
+Vega,6
+Venus,9
+Vernon,9
+Victoria,36
+Vidor,17
+Volente,38
+Von Ormy,216
+Waco,353
+Waelder,11
+Wall,1
+Waller,37
+Wallis,5
+Wallisville,9
+Warren,2
+Waskom,23
+Watauga,2
+Waxahachie,403
+Weatherford,376
+Webberville,22
+Webster,770
+Weimar,10
+Weinert,1
+Wells,1
+Weslaco,7
+West,27
+West Columbia,5
+West Lake Hills,315
+Westbrook,22
+Wharton,22
+Wheeler,2
+White Deer,3
+Whitehouse,5
+Whitesboro,5
+Whitewright,4
+Whitney,3
+Whitsett,1
+Wichita Falls,2093
+Wildorado,11
+Willis,101
+Willow,1
+Willow Park,5
+Wills Point,63
+Wilmer,100
+Wilson,1
+Wimberley,5
+Windcrest,44
+Windthorst,6
+Winfield,6
+Wingate,2
+Wink,5
+Winnie,22
+Winnsboro,1
+Winona,10
+Winters,1
+Wolfforth,1
+Woodsboro,1
+Woodville,8
+Woodway,7
+Wylie,16
+Yoakum,1
+Yorktown,4
+Ysleta Del Sur Pueblo,4
+Zavalla,5

@@ -1,0 +1,850 @@
+City,Number of Accidents,population
+Abbott,32,364
+Abernathy,5,"2,814"
+Abilene,71,"129,043"
+Addison,123,"17,100"
+Adkins,10,
+Adrian,12,130
+Alamo,30,"20,460"
+Alba,2,499
+Albany,4,"1,923"
+Aledo,192,"6,287"
+Alice,6,"17,579"
+Allen,570,"111,620"
+Alleyton,9,
+Alto,2,"1,054"
+Alton,2,"21,130"
+Alvarado,111,"6,225"
+Alvin,55,"28,633"
+Amarillo,84,"202,408"
+Amherst,5,655
+Anahuac,14,"1,997"
+Andrews,18,"13,502"
+Angleton,129,"20,206"
+Anna,47,"27,501"
+Anson,2,"2,302"
+Anton,2,916
+Archer,5,"1,626"
+Argyle,120,"5,859"
+Arlington,5281,"398,431"
+Asherton,2,690
+Atascosa,14,
+Athens,8,"13,503"
+Atlanta,2,"5,421"
+Aubrey,19,"8,267"
+Austin,87126,"979,882"
+Avinger,2,370
+Azle,6,"14,562"
+Bacliff,6,
+Baird,15,"1,526"
+Balch Springs,1099,"26,711"
+Ballinger,1,"3,581"
+Balmorhea,21,384
+Bandera,1,879
+Barksdale,5,
+Barstow,5,252
+Bartlett,3,"1,616"
+Bastrop,37,"11,679"
+Baytown,448,"84,067"
+Beasley,19,692
+Beaumont,155,"112,193"
+Beckville,6,742
+Bedford,755,"48,370"
+Bedias,1,394
+Bee Cave,23,"8,621"
+Beeville,6,"13,211"
+Bellaire,728,"17,016"
+Bellevue,6,302
+Bells,6,"1,521"
+Bellville,1,"4,217"
+Belton,59,"25,171"
+Benbrook,5,"24,336"
+Bertram,6,"2,060"
+Big Sandy,1,"1,308"
+Big Spring,56,"22,373"
+Big Wells,2,461
+Bishop,3,"3,082"
+Bivins,4,
+Blanco,5,"2,005"
+Bloomburg,5,329
+Bloomington,2,
+Bluff Dale,1,
+Bluffton,1,
+Boerne,122,"21,774"
+Bogata,2,"1,095"
+Boling,1,
+Bonham,1,"10,879"
+Borger,12,"12,115"
+Bowie,4,"5,964"
+Boyd,1,"1,757"
+Brackettville,10,"1,334"
+Brady,1,"4,965"
+Brashear,1,
+Brazoria,16,"2,853"
+Breckenridge,6,"5,140"
+Bremond,6,873
+Brenham,5,"19,142"
+Bridge,3,"9,666"
+Briggs,2,
+Brookeland,1,
+Brookshire,226,"5,667"
+Brownfield,1,"8,652"
+Brownsville,13,"190,158"
+Brownwood,8,"18,790"
+Bruceville,24,
+Bryan,34,"89,615"
+Buckholts,2,388
+Buda,764,"16,030"
+Buffalo,20,"1,855"
+Bulverde,10,"6,970"
+Buna,3,
+Burkburnett,6,"11,089"
+Burkeville,1,
+Burleson,451,"55,220"
+Burnet,26,"6,940"
+Byers,5,472
+Caddo,1,
+Caddo Mills,12,"4,183"
+Caldwell,3,"4,579"
+Calvert,2,970
+Cameron,9,"5,511"
+Camp Wood,1,511
+Campbell,1,591
+Campbellton,14,
+Canadian,4,"2,210"
+Canton,11,"4,734"
+Canutillo,2,
+Canyon,8,"16,171"
+Canyon Lake,1,
+Carmine,1,248
+Carrizo Springs,1,"4,628"
+Carrollton,2431,"132,918"
+Carthage,6,"6,601"
+Castroville,9,"3,141"
+Cat Spring,1,
+Catarina,2,
+Cedar Creek,86,
+Cedar Hill,119,"48,411"
+Cedar Park,670,"77,516"
+Cedar Park-Liberty Hill,1,
+Celina,1,"43,317"
+Center,1,"5,163"
+Centerville,6,949
+Channelview,399,
+Channing,5,264
+Chappell Hill,1,
+Childress,5,"5,770"
+Chillicothe,4,542
+Chilton,4,
+Cibolo,5,"36,374"
+Cisco,54,"4,006"
+Clarendon,14,"1,859"
+Clarksville,5,785
+Clarksville,5,"2,876"
+Claude,9,"1,186"
+Cleburne,10,"36,209"
+Cleveland,25,"9,113"
+Clint,69,"1,014"
+Clute,18,"10,704"
+Clyde,9,"3,985"
+Coahoma,6,902
+Coldspring,1,866
+Coleman,7,"3,966"
+College Station,15,"125,192"
+Colleyville,19,"25,736"
+Collinsville,1,"2,023"
+Colmesneil,3,546
+Colorado,39,"3,987"
+Columbus,25,"3,786"
+Comanche,14,"4,294"
+Comfort,19,
+Comstock,1,
+Concan,3,
+Conroe,1029,"108,248"
+Converse,255,"30,321"
+Cookville,2,
+Cooper,2,"2,025"
+Coppell,214,"41,404"
+Copperas Cove,18,"38,696"
+Corinth,7,"23,707"
+Corpus Christi,80,"316,595"
+Corrigan,11,"1,435"
+Corsicana,44,"25,671"
+Cotulla,51,"3,612"
+Coupland,78,295
+Coyanosa,3,
+Crandall,36,"4,995"
+Crane,4,"3,362"
+Creedmoor,60,425
+Cresson,4,"1,983"
+Crockett,17,"6,286"
+Crosby,31,
+Crossroads,6,
+Crowley,25,"19,932"
+Crystal,11,"6,099"
+Cuero,1,"8,204"
+Cumby,4,706
+Cypress,410,
+Daingerfield,5,"2,502"
+Dale,47,
+Dalhart,18,"8,353"
+Dallas,119311,"1,302,868"
+Damon,7,
+Danbury,12,"1,675"
+Dawson,3,817
+Dayton,13,"9,693"
+De Berry,9,
+De Kalb,8,"1,461"
+De Leon,4,"2,337"
+Decatur,16,"8,016"
+Deer Park,212,"33,176"
+Del Rio,9,"34,574"
+Del Valle,2742,
+Dell,2,271
+Denison,11,"26,343"
+Denton,1737,"158,349"
+Desdemona,6,
+Desoto,255,
+Detroit,1,707
+Devine,5,"4,580"
+Diboll,17,"4,551"
+Dickens,1,208
+Dickinson,246,"21,834"
+Dilley,9,"3,333"
+Dimmitt,8,"4,071"
+Donna,7,"16,782"
+Driftwood,2,
+Dripping Springs,65,"8,689"
+Dublin,2,"3,422"
+Dumas,3,"14,291"
+Duncanville,1101,"38,883"
+Eagle Lake,3,"3,508"
+Eagle Pass,4,"28,282"
+Earth,2,897
+East Bernard,10,"2,240"
+Eastland,25,"3,645"
+Edcouch,4,"2,677"
+Eddy,35,
+Eden,9,"1,834"
+Edinburg,76,"105,799"
+Edna,11,"6,012"
+El Campo,9,"12,062"
+El Paso,15293,"678,958"
+Electra,19,"2,272"
+Elgin,233,"12,304"
+Elm Mott,11,
+Elmendorf,89,"2,398"
+Emory,1,"1,366"
+Encinal,12,521
+Encino,3,
+Ennis,126,"23,686"
+Eola,1,
+Etoile,1,
+Euless,654,"59,686"
+Eustace,1,"1,157"
+Fabens,23,
+Fairfield,11,"2,972"
+Falfurrias,7,"4,420"
+Farmersville,5,"4,175"
+Farwell,4,"1,380"
+Fate,21,"24,626"
+Fayetteville,2,250
+Ferris,159,"3,370"
+Flatonia,13,"1,371"
+Flint,6,
+Florence,49,"1,203"
+Flower Mound,4,"79,445"
+Floydada,4,"2,519"
+Fluvanna,1,
+Forest Hill,80,"14,157"
+Forney,611,"35,470"
+Forreston,32,
+Fort Bliss,163,
+Fort Davis,17,
+Fort Hancock,31,
+Fort Hood,12,
+Fort Stockton,53,"8,113"
+Fort Worth,15463,"978,468"
+Fowlerton,2,
+Franklin,3,"1,728"
+Frankston,7,"1,111"
+Fredericksburg,25,"11,542"
+Freeport,34,"10,550"
+Fresno,14,
+Friendswood,333,"40,826"
+Frisco,272,"225,007"
+Fritch,3,"1,794"
+Fulshear,3,"42,616"
+Gail,1,
+Gainesville,21,"18,107"
+Galena Park,6,"10,271"
+Galveston,152,"53,237"
+Ganado,9,"2,007"
+Garden,4,
+Garland,2414,"243,470"
+Garrison,1,817
+Garwood,1,
+Gary,1,338
+Gatesville,3,"16,148"
+George West,1,"2,167"
+Georgetown,518,"96,312"
+Giddings,7,"5,254"
+Gilmer,7,"5,100"
+Gladewater,4,"6,272"
+Glen Rose,2,"2,887"
+Glenn Heights,1,"18,793"
+Godley,2,"3,589"
+Goldsmith,6,226
+Goldthwaite,13,"1,762"
+Goliad,18,"1,683"
+Gonzales,7,"7,221"
+Goodrich,1,278
+Gordon,8,489
+Gordonville,1,
+Graford,10,717
+Graham,2,"8,819"
+Granbury,11,"12,622"
+Grand Prairie,3951,"202,134"
+Grandview,45,"1,926"
+Granger,5,"1,193"
+Granite Shoals,3,"5,451"
+Grapeland,2,"1,487"
+Grapevine,909,"50,928"
+Greenville,48,"32,717"
+Groom,8,549
+Groves,5,"16,764"
+Groveton,14,934
+Gruver,4,"1,083"
+Gun Barrel,1,"6,824"
+Gunter,1,"2,463"
+Guy,1,
+Hale Center,3,"1,997"
+Hallettsville,2,"2,756"
+Hallsville,15,"4,812"
+Haltom,248,"45,290"
+Hamilton,5,"2,997"
+Hamlin,2,"1,851"
+Hamshire,6,
+Harker Heights,4,"34,447"
+Harlingen,20,"71,510"
+Harper,5,
+Harrold,7,
+Harwood,14,52
+Haskell,4,"3,058"
+Haslet,52,"3,861"
+Hawley,4,567
+Hearne,6,"4,535"
+Hedley,3,265
+Helotes,16,"9,952"
+Hemphill,5,"1,033"
+Hempstead,68,"6,537"
+Henderson,7,"13,464"
+Henrietta,17,"3,239"
+Hereford,37,"14,752"
+Hickory Creek,15,"5,688"
+Hico,4,"1,460"
+Hidalgo,2,"14,678"
+Highlands,29,
+Hillsboro,59,"8,703"
+Hitchcock,44,"7,710"
+Hobson,2,
+Hockley,117,
+Holliday,12,"1,650"
+Hondo,5,"8,786"
+Hooks,10,"2,484"
+Horizon,5,"24,168"
+Horseshoe Bay,2,"5,063"
+Houston,156968,"2,314,157"
+Howe,6,"3,673"
+Hudson Oaks,5,"2,656"
+Huffman,86,
+Humble,2344,"16,237"
+Huntington,5,"2,062"
+Huntsville,65,"48,552"
+Hurst,608,"39,304"
+Hutchins,292,"6,149"
+Hutto,154,"38,765"
+Idalou,6,"2,106"
+Imperial,1,
+Industry,2,282
+Inez,9,
+Iola,4,339
+Iowa Park,24,"6,578"
+Iraan,2,995
+Iredell,2,318
+Irving,5171,"254,373"
+Italy,32,"2,079"
+Itasca,6,"1,831"
+Jacksonville,7,"14,420"
+Jarrell,55,"3,980"
+Jasper,2,"7,470"
+Jbsa Ft Sam Houston,22,
+Jbsa Lackland,30,
+Jefferson,19,"1,851"
+Jermyn,1,
+Jersey,10,"7,653"
+Johnson,14,"2,037"
+Jonestown,96,"2,595"
+Joshua,8,"8,901"
+Jourdanton,3,"4,304"
+Junction,39,"2,531"
+Justiceburg,11,
+Justin,52,"5,892"
+Karnes,7,"3,112"
+Katy,834,"26,360"
+Kaufman,25,"9,201"
+Keene,4,"6,860"
+Keller,16,"46,316"
+Kemah,16,"2,562"
+Kemp,4,"1,348"
+Kempner,1,"1,269"
+Kenedy,1,"3,403"
+Kennard,1,281
+Kennedale,58,"10,052"
+Kermit,37,"5,952"
+Kerrville,14,"24,930"
+Kilgore,17,"13,523"
+Killeen,11,"159,643"
+Kingsbury,6,137
+Kingsland,2,
+Kingsville,2,"24,586"
+Kingwood,1435,
+Knott,1,
+Knox,3,"1,046"
+Kountze,3,"2,131"
+Krum,7,"6,548"
+Kyle,290,"62,548"
+La Feria,3,"6,758"
+La Grange,15,"4,541"
+La Joya,2,"4,863"
+La Marque,122,"19,605"
+La Porte,226,"36,991"
+La Pryor,3,
+Lago Vista,57,"10,009"
+Lake Dallas,479,"7,917"
+Lake Jackson,38,"27,768"
+Lakeway,50,"19,189"
+Lamesa,10,"8,266"
+Lampasas,8,"7,855"
+Lancaster,1147,"40,215"
+Laredo,80,"257,602"
+Lavon,2,"7,495"
+League,337,"116,320"
+Leander,543,"80,067"
+Ledbetter,11,
+Leona,2,166
+Leonard,4,"2,083"
+Levelland,8,"12,530"
+Lewisville,1913,"133,553"
+Liberty,12,"8,774"
+Liberty Hill,64,"10,428"
+Lincoln,6,
+Lindale,27,"6,923"
+Linden,7,"1,813"
+Linn,6,
+Lipan,4,533
+Little Elm,12,"58,496"
+Littlefield,14,"5,768"
+Live Oak,66,"15,988"
+Liverpool,8,530
+Livingston,12,"5,747"
+Llano,4,"3,511"
+Lockhart,76,"15,318"
+Lockney,1,"1,414"
+Lolita,4,
+London,3,
+Lone Oak,1,781
+Long Branch,12,
+Longview,231,"83,236"
+Loraine,7,508
+Lorena,11,"1,803"
+Los Fresnos,10,"8,362"
+Louise,3,
+Lovelady,1,584
+Lubbock,56,"266,878"
+Lufkin,78,"34,181"
+Luling,41,"5,754"
+Lumberton,3,"14,129"
+Lyford,1,"2,207"
+Lytle,8,"3,178"
+Mabank,8,"6,396"
+Madisonville,13,"4,602"
+Magnolia,34,"5,320"
+Malakoff,6,"2,251"
+Manchaca,233,
+Manor,3487,"20,209"
+Mansfield,144,"78,542"
+Manvel,202,"17,261"
+Marathon,2,
+Marble Falls,82,"7,573"
+Marfa,1,"1,674"
+Marion,36,"1,074"
+Marlin,7,"5,563"
+Marshall,45,"24,118"
+Mart,5,"1,849"
+Mason,4,"2,116"
+Mathis,8,"4,285"
+Maud,2,966
+Maxwell,2,
+Mc Camey,1,
+Mc Caulley,1,
+Mc Dade,2,
+Mc Gregor,8,
+McAllen,25,"146,593"
+McKinney,405,"213,509"
+McLean,3,648
+Mcallen,15,
+Mckinney,10,
+Meadow,10,613
+Meadows Place,5,"4,596"
+Melissa,50,"23,571"
+Melvin,1,123
+Memphis,3,"2,035"
+Menard,6,"1,343"
+Mentone,8,
+Mercedes,2,"16,732"
+Meridian,1,"1,429"
+Merkel,16,"2,433"
+Mesquite,5903,"147,317"
+Mexia,1,"6,859"
+Midkiff,5,
+Midland,88,"138,397"
+Midlothian,42,"41,352"
+Milano,3,425
+Milford,23,778
+Millsap,15,414
+Mineola,5,"5,119"
+Mineral Wells,5,"15,454"
+Mingus,3,236
+Mirando,2,
+Mission,100,"87,292"
+Missouri,385,"76,773"
+Monahans,17,"7,311"
+Montalba,5,
+Montgomery,32,"2,769"
+Moody,4,"1,618"
+Moore,3,
+Moulton,4,859
+Mount Pleasant,21,"16,055"
+Mount Vernon,3,"2,557"
+Mountain Home,4,
+Mt Enterprise,1,
+Mt Pleasant,4,
+Muenster,3,"1,665"
+Muleshoe,11,"4,970"
+Mullin,3,131
+Munday,1,"1,222"
+Nacogdoches,23,"32,156"
+Naples,22,"1,401"
+Natalia,5,"1,336"
+Navasota,12,"8,969"
+Nederland,3,"18,118"
+Needville,17,"3,088"
+Nemo,1,
+Nevada,1,"1,419"
+New Boston,14,"4,548"
+New Braunfels,582,"110,958"
+New Caney,61,
+New Waverly,20,986
+Newcastle,1,535
+Nixon,5,"2,389"
+Nocona,9,"3,190"
+North Richland Hills,365,"70,658"
+North Zulch,1,
+Northeast Dallas,79,
+Northeast Travis,1,
+Northwest Travis,2,
+Oakhurst,3,
+Oakwood,1,404
+Odem,5,"2,302"
+Odessa,103,"115,743"
+Odonnell,1,
+Oklaunion,10,
+Olmito,2,
+Olton,2,"1,926"
+Omaha,5,932
+Orange,43,"19,108"
+Orange Grove,1,"1,178"
+Ore,1,"1,175"
+Overton,1,"2,316"
+Ozona,4,
+Paducah,3,990
+Paige,5,
+Palacios,1,"4,374"
+Palestine,15,"19,372"
+Palmer,44,"2,555"
+Palmview,2,"15,874"
+Pampa,8,"16,543"
+Panhandle,8,"2,358"
+Pantego,2,"2,481"
+Paris,1,"24,969"
+Pasadena,1102,"146,716"
+Pattison,2,624
+Pearland,322,"127,736"
+Pearsall,12,"8,946"
+Pecan Gap,1,186
+Pecos,70,
+Penitas,2,"6,331"
+Perryton,4,"8,219"
+Petrolia,7,539
+Petty,1,
+Pflugerville,3281,"65,301"
+Pharr,58,"80,410"
+Pilot Point,3,"5,884"
+Pinehurst,19,"2,226"
+Pineland,2,902
+Pipe Creek,2,
+Plains,13,"1,328"
+Plainview,14,"19,420"
+Plano,2438,"290,190"
+Plantersville,10,502
+Pleasanton,14,"11,195"
+Pointblank,1,
+Pollok,3,
+Ponder,1,"2,757"
+Port Arthur,8,"55,547"
+Port Bolivar,14,
+Port Lavaca,14,"11,212"
+Port O Connor,1,
+Porter,136,
+Portland,11,"20,481"
+Post,9,"3,486"
+Pottsboro,1,"2,779"
+Princeton,11,"28,027"
+Prosper,8,"41,660"
+Purdon,1,
+Pyote,3,67
+Quanah,2,"2,226"
+Queen,9,"1,400"
+Quemado,4,
+Quinlan,3,"1,537"
+Quitman,5,"2,015"
+Ralls,4,"1,578"
+Ranger,10,"2,282"
+Ravenna,2,187
+Raymondville,6,"10,135"
+Red Oak,120,"18,624"
+Red Rock,1,
+Refugio,1,"2,757"
+Reno,2,"3,544"
+Reno,2,"3,489"
+Rhome,9,"1,843"
+Rice,25,"1,227"
+Richards,1,
+Richardson,2492,"117,435"
+Richland,2,273
+Richland Hills,11,"8,323"
+Richland Springs,1,247
+Richmond,180,"12,816"
+Riesel,1,"1,062"
+Rio Grande,10,"15,311"
+Rio Hondo,4,"2,295"
+Rio Vista,2,"1,190"
+Rising Star,5,771
+River Oaks,1,"7,370"
+Riviera,7,
+Roanoke,191,"10,798"
+Robinson,1,"12,987"
+Robstown,4,"10,335"
+Rockdale,5,"5,588"
+Rocksprings,4,848
+Rockwall,1003,"52,918"
+Roma,2,"11,554"
+Roosevelt,6,
+Rosanky,2,
+Roscoe,28,"1,220"
+Rosebud,1,"1,339"
+Rosenberg,118,"41,104"
+Rosharon,98,
+Rotan,5,"1,309"
+Round Mountain,34,116
+Round Rock,1411,"130,406"
+Round Top,1,93
+Rowlett,579,"66,813"
+Royse,343,"24,138"
+Rule,2,556
+Runge,5,946
+Rusk,6,"5,362"
+Sabinal,3,"1,377"
+Sachse,29,"32,294"
+Saginaw,10,"25,139"
+Saint Hedwig,1,
+Saint Jo,5,
+Salado,39,"2,394"
+Salt Flat,7,
+Saltillo,6,
+San Angelo,12,"99,262"
+San Antonio,35686,"1,495,295"
+San Antonio Central,2,
+San Antonio North,1,
+San Augustine,4,"1,867"
+San Benito,14,"24,493"
+San Elizario,24,"10,164"
+San Isidro,1,
+San Juan,24,"36,448"
+San Marcos,581,"71,569"
+San Saba,1,"3,115"
+Sanger,197,"9,831"
+Santa Anna,1,"1,030"
+Santa Elena,2,
+Santa Fe,26,"12,980"
+Santo,23,
+Savoy,8,753
+Schertz,563,"43,239"
+Schulenburg,12,"2,783"
+Seabrook,28,"13,662"
+Seadrift,4,"1,009"
+Seagoville,103,"19,643"
+Sealy,55,"7,243"
+Seguin,120,"36,013"
+Selma,52,"11,748"
+Seminole,2,"7,231"
+Seymour,13,"2,576"
+Shallowater,15,"2,932"
+Shamrock,4,"1,709"
+Shavano Park,3,"3,722"
+Shenandoah,38,"3,807"
+Shepherd,16,"2,005"
+Sheppard AFB,4,
+Sheppard Afb,3,
+Sherman,49,"47,473"
+Shiner,3,"2,163"
+Sierra Blanca,26,
+Silsbee,1,"6,775"
+Simms,5,
+Sinton,2,"5,551"
+Skidmore,1,
+Slaton,4,"5,684"
+Smithville,12,"4,126"
+Snyder,8,"11,187"
+Socorro,87,"38,238"
+Somerset,2,"1,806"
+Somerville,1,"1,419"
+Sonora,9,"2,391"
+Sour Lake,1,"1,851"
+South Houston,53,"15,808"
+Southlake,204,"31,137"
+Southwest Dallas,1,
+Spicewood,468,
+Splendora,19,"1,958"
+Spring,2454,
+Spring Branch,6,244
+Springlake,1,141
+Springtown,5,"4,181"
+Stafford,483,"17,338"
+Stamford,1,"2,942"
+Stanton,47,"2,654"
+Stephenville,7,"21,946"
+Sterling,1,"1,138"
+Stinnett,6,"1,613"
+Stockdale,2,"1,470"
+Stratford,21,"1,886"
+Strawn,3,561
+Streetman,11,267
+Sudan,3,933
+Sugar Land,444,"108,515"
+Sullivan,1,"3,899"
+Sulphur Springs,6,"16,564"
+Summerfield,2,
+Sunnyvale,537,"8,486"
+Sunset,2,
+Sunset Valley,42,624
+Sweeny,8,"3,570"
+Sweetwater,54,"10,285"
+Sylvester,1,
+Tahoka,1,"2,427"
+Talco,1,488
+Tatum,1,"1,377"
+Taylor,20,"17,337"
+Teague,21,"3,536"
+Temple,142,"93,095"
+Tennessee Colony,3,
+Terrell,324,"21,480"
+Texarkana,62,"35,741"
+Texas,105,"56,609"
+Texline,2,464
+The Colony,107,"45,471"
+The Hills,15,"2,372"
+Thornton,2,423
+Thrall,9,865
+Tilden,3,
+Timpson,8,"1,002"
+Tolar,1,"1,227"
+Tomball,343,"14,201"
+Tornillo,5,
+Trent,5,294
+Trenton,2,815
+Trinity,1,"2,449"
+Troy,94,"3,169"
+Tyler,3215,"110,327"
+Universal,29,"20,028"
+Uvalde,19,"15,436"
+Valley Spring,1,
+Valley View,3,864
+Van,6,"2,862"
+Van Alstyne,4,"6,782"
+Van Horn,30,"1,961"
+Vancourt,1,
+Vega,6,884
+Venus,9,"7,528"
+Vernon,9,"9,788"
+Victoria,36,"65,800"
+Vidor,17,"9,738"
+Volente,38,503
+Von Ormy,216,"1,194"
+Waco,353,"144,816"
+Waelder,11,955
+Wall,1,
+Waller,37,"3,368"
+Wallis,5,"1,349"
+Wallisville,9,
+Warren,2,321
+Waskom,23,"1,940"
+Watauga,2,"22,934"
+Waxahachie,403,"47,201"
+Weatherford,376,"38,109"
+Webberville,22,451
+Webster,770,"12,182"
+Weimar,10,"2,152"
+Weinert,1,170
+Wells,1,879
+Weslaco,7,"43,053"
+West,27,"2,586"
+West Columbia,5,"3,616"
+West Lake Hills,315,"3,181"
+Westbrook,22,205
+Wharton,22,"8,742"
+Wheeler,2,"1,446"
+White Deer,3,995
+Whitehouse,5,"9,571"
+Whitesboro,5,"4,181"
+Whitewright,4,"1,776"
+Whitney,3,"2,090"
+Whitsett,1,
+Wichita Falls,2093,"102,691"
+Wildorado,11,
+Willis,101,"6,964"
+Willow,1,
+Willow Park,5,"6,630"
+Wills Point,63,"3,981"
+Wilmer,100,"6,385"
+Wilson,1,446
+Wimberley,5,"2,881"
+Windcrest,44,"5,759"
+Windthorst,6,352
+Winfield,6,422
+Wingate,2,
+Wink,5,876
+Winnie,22,
+Winnsboro,1,"3,614"
+Winona,10,679
+Winters,1,"2,319"
+Wolfforth,1,"7,258"
+Woodsboro,1,"1,280"
+Woodville,8,"2,404"
+Woodway,7,"9,680"
+Wylie,16,"61,078"
+Yoakum,1,"5,862"
+Yorktown,4,"1,793"
+Ysleta Del Sur Pueblo,4,
+Zavalla,5,610
